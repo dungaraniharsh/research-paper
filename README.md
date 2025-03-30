@@ -1,12 +1,6 @@
 # research-paper
 Enhancing Network Security through Optimized Classification Models
 
-
-# 
-
-
-# Machine Learning for Network Traffic Classification
-
 # Abstact
 This study examines the efficacy of advanced classification models using the UNSW-NB15 and CICIDS2017 datasets to enhance Network Intrusion Detection Systems (NIDS).
 We employ a combination of Random Forest, KNN, DT, XG Boost Logistic Regression, and Multi-Layer Perceptron (MLP) models, optimized through various hyperparameter tuning to identify and classify network threats more accurately.
