@@ -2,18 +2,16 @@
 Enhancing Network Security through Optimized Classification Models
 
 
+# 
+
+
+# Machine Learning for Network Traffic Classification
+
 # Abstact
 This study examines the efficacy of advanced classification models using the UNSW-NB15 and CICIDS2017 datasets to enhance Network Intrusion Detection Systems (NIDS).
 We employ a combination of Random Forest, KNN, DT, XG Boost Logistic Regression, and Multi-Layer Perceptron (MLP) models, optimized through various hyperparameter tuning to identify and classify network threats more accurately.
 Results demonstrate that our integrated approach, particularly the Random Forest significantly outperforms conventional detection systems, achieving 90% and 100% accuracy for UNSW-NB15 and CICIDS2017 datasets in identifying diverse cyber threats.
 These findings underscore the critical role of machine learning in advancing the reliability and effectiveness of cybersecurity measures against evolving digital threats.
-
-https://scholarworks.calstate.edu/concern/theses/pn89df73b
-
-# Machine Learning for Network Traffic Classification
-
-## Overview
-This repository contains implementation and evaluation of various machine learning models for network traffic classification using the UNSW-NB15 and CICIDS2017 datasets. The project demonstrates how different classifiers perform in identifying network traffic patterns for cybersecurity applications.
 
 ## Key Features
 - Comprehensive data preprocessing pipeline
@@ -51,15 +49,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-## Citation
-If you use this code or findings in your research, please cite:
-```
-@article{yourlastname2025,
-  title={Machine Learning Techniques for Network Traffic Classification},
-  author={Your Name},
-  year={2025}
-}
-```
+https://scholarworks.calstate.edu/concern/theses/pn89df73b
 
 ## License
 MIT
